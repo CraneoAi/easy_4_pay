@@ -1,0 +1,1 @@
+wallet de cobros programados-domiciliados, pensando en pequeñas empresas y/o emprendedores, la idea es poder generar cobros al instante y programados periodicamente posterior a una venta en persona y posterior los cobros programados, administrando eficaz los cobros y las perdidas.
